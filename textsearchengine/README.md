@@ -12,8 +12,11 @@ JAR file
 
 
 Create JAR file
+
 mvn Clean Package
+
 Run JAR file example
+
 java -jar text-search-engine-1.0-SHAPSHOT.jar filePath
 
 Notes
