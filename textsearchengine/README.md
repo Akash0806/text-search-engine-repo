@@ -9,10 +9,13 @@ Maven
 Development
 Build
 JAR file
+
+
 Create JAR file
 mvn Clean Package
 Run JAR file example
 java -jar text-search-engine-1.0-SHAPSHOT.jar filePath
+
 Notes
 The specs were a bit ambiguous regarding the process to be implemented.  the specs mention words contained in the file, but doesn't mention to retrieve the position of the words where they have been found, which would be the logic approach.
 Current logic is decided the ranking based on word found , there is no order maintain ,However I have added index position to support for order
