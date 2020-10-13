@@ -8,7 +8,7 @@
     <artifactId>text-search-engine</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <junit>4.12</junit>
+        <junit>4.13.1</junit>
         <mockito>2.26.0</mockito>
     </properties>
     <dependencies>
